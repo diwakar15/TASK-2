@@ -1,0 +1,5 @@
+DOCUMENT AND WINDOW OBJECT
+
+The window object represents the browser window.
+The document object represents the HTML document loaded in that window.
+The window object has many useful properties like the location object and the setTimeout function.
